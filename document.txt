@@ -1,0 +1,27 @@
+Project is developed using a combination of Python, Flask as the backend technology, and React as the frontend technology.
+
+Steps to Start the Project:
+
+Backend Setup:
+
+Navigate to the "Backend" folder.
+Run the "fetch_data.py" file.
+This step will initialize a Flask server. It's important to note that the project uses a MongoDB database hosted on Mongo Atlas, a cloud-based service.
+
+Frontend Setup:
+
+Go to the "Frontend" folder, specifically the "find-products" directory.
+Open a terminal in this directory.
+Install Dependencies:
+
+Run the command "npm install" to install the required dependencies for the frontend.
+Start the Application:
+
+After the successful installation of dependencies, execute "npm start" to initiate the frontend server.
+Now, you can access the application by navigating to the following link in your web browser:
+http://localhost:3000/
+
+This will launch the project and allow you to interact with it.
+
+
+
